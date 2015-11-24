@@ -4,7 +4,7 @@ Este projeto consiste em apresentar uma classe "cliente.php" criando um array de
 
 Obs.: Se o script for exibido no navegador Firefox, o gif que está em "short cut icon" aparecerá com movimento.
 
-Arquivos do projeto:
+Arquivos do projeto (constantes em /poo/projeto1/):
 
 * frm_cli.php - Formulário utilizando Bootstrap
 * cliente.php - Classe de clientes
