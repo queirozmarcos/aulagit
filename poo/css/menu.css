@@ -1,0 +1,11 @@
+<style>
+.menu0   { width:100%; margin:-50px 0 0 0; padding:0; height:46px; background:#00688b; top left repeat-x #809f10; position:absolute;}
+#menu    { width:960px; margin:0 auto; padding:0; height:46px;}
+#menu ul { padding:0px; margin:0; float:left; width: 960px; list-style:none; z-index:2; }
+#menu ul li   { display:inline; letter-spacing:0px; }
+#menu ul li a {padding:0 17px; margin:0;  float:left; color:#fff; text-decoration:none;  font-size:12px; font-family:arial; text-align:center;  line-height:46px;
+background:url(../images/bg_li.png) center right no-repeat; text-transform:uppercase; text-shadow: 1px 1px  1px #000}
+#menu ul li a:hover { background:#02465d; color:#ffffff;}
+#menu ul li a.ativo { padding:0 17px; background:#02465d; margin:0; float:left; color:#fff; text-decoration: none; font-size:12px; font-family:arial; text-align:center;  line-height:46px;
+text-transform:uppercase; }
+</style>
