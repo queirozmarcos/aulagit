@@ -2,7 +2,7 @@
 
 Este projeto consiste em apresentar duas sub-classes de "cliente.php" criando um array de objeto com clientes pessoa física e clientes pessoa jurídica, contando também com interfaces para: grau de importância para a empresa e endereço de cobrança do cliente.
 
-Obs.: Se o script foi testado nonavegador Firefox.
+Obs.: Os scripts foram testados no navegador Firefox.
 
 Arquivos do projeto (constantes em /aulagit/projeto2/):
 
