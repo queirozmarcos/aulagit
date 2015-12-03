@@ -6,7 +6,7 @@ Obs.: Os scripts foram testados no navegador Firefox.
 
 Arquivos do projeto (constantes em /aulagit/projeto2/):
 
-* img - Sub-diretório (pasta) com as 3 imagens utilizadas no projeto: ascend.pnj, descen.png e estrela.png
+* img - Sub-diretório (pasta) com as 3 imagens utilizadas no projeto: ascend.png, descen.png e estrela.png
 * README.md - Leia-me
 * cli_p_f.php - Sub-classe de Cliente para Pessoa Física
 * cli_p_j.php - Sub-classe de Cliente para Pessoa Jurídica
