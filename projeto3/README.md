@@ -1,8 +1,8 @@
-<h2>Cadastro de Clientes - Projeto 2</h2>
+## <h2>Cadastro de Clientes - Projeto 3</h2> ##
 
-Este projeto consiste em apresentar duas sub-classes de "cliente.php" criando um array de objeto com clientes pessoa física e clientes pessoa jurídica, contando também com interfaces para: grau de importância para a empresa e endereço de cobrança do cliente.
+Este projeto consiste em apresentar as classes e demais arquivos dentro de estrutura de diretórios nos padrões PHP-FIG. duas sub-classes de "cliente.php" criando um array de objeto com clientes pessoa física e clientes pessoa jurídica, contando também com interfaces para: grau de importância para a empresa e endereço de cobrança do cliente.
 
-Obs.: Os scripts foram testados no navegador Firefox.
+Obs.: Os scripts foram testados e melhor visualizados no navegador Firefox (navegador em que a imagem gif aparece com movimento).
 
 Arquivos do projeto (constantes em /aulagit/projeto2/):
 
