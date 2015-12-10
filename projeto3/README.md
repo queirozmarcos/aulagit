@@ -35,4 +35,4 @@ Observações:
 
 1. No formulário, ao lado do "Código" há um ícone com a seta para classificar em ordem crescente ou decrescente.
 2. Os scripts foram testados e melhor visualizados no navegador Firefox (navegador em que a imagem gif aparece com movimento).
-3. Todos os teste foram realizados em ambiente Linux.
+3. Todos os teste foram realizados com os arquivos em servidor Linux.
